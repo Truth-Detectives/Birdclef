@@ -1,0 +1,1 @@
+The birdclean notebook first took the dataset of train.csv and found any values where longitude and latitude had either no values which indicated it was not a real location recording with actual audio and removed them.
