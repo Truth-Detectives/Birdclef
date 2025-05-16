@@ -18,7 +18,7 @@
 [sklearn](https://pypi.org/project/scikit-learn/)
 [seaborn](https://pypi.org/project/seaborn/)
 [torch](https://pypi.org/project/torch/)
-[roechaudio](https://pypi.org/project/torchaudio/)
+[torchaudio](https://pypi.org/project/torchaudio/)
 
 
 ## Installation
